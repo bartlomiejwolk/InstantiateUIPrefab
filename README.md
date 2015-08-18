@@ -25,7 +25,7 @@ offsetted relatively to the previous one by this amount.
 ## Important
 
 * _InstantiateUIPrefab_ module requires [Rotorz Reorderable List](https://bitbucket.org/rotorz/reorderable-list-editor-field-for-unity) extension.
-* All child game object in the template prefab must have unique names.
+* All child game objects in the template prefab must have unique names.
 
 ## Help
 

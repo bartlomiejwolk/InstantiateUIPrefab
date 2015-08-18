@@ -30,8 +30,6 @@ Just create an issue and I'll do my best to help.
 
 Pull requests, ideas, questions or any feedback at all are welcome.
 
-See also: [Unity extensions as git submodules](http://wp.me/p56Vqs-6o)
-
 ## Versioning
 
 Example: `v0.2.3+1`

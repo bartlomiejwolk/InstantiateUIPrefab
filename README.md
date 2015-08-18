@@ -5,6 +5,7 @@
 Licensed under MIT license. See LICENSE file in the project root folder.
 
 ![InstantiateUIPrefab](/Resources/cover_screenshot.png?raw=true)
+![](/Resources/in-game_picture.png?raw=true)
 
 ## Features
 

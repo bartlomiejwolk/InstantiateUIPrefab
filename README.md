@@ -1,6 +1,6 @@
 ﻿# InstantiateUIPrefab
 
-*InstantiateUIPrefab* extension for Unity.
+*InstantiateUIPrefab* module for Unity.
 
 Licensed under MIT license. See LICENSE file in the project root folder.
 

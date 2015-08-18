@@ -22,6 +22,11 @@ offsetted relatively to the previous one by this amount.
 5. Draw and drop children of the template prefab. UI Text components on those children will be updated with external call (or from the editor with the instantiate button).
 6. In runtime, call the `InstantiateAndUpdateUIPrefab(string[])` and pass string values to update the template prefab that will be instantiated.
 
+## Important
+
+* _InstantiateUIPrefab_ module requires [Rotorz Reorderable List](https://bitbucket.org/rotorz/reorderable-list-editor-field-for-unity) extension.
+* All child game object in the template prefab must have unique names.
+
 ## Help
 
 Just create an issue and I'll do my best to help.
